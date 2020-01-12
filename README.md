@@ -1,1 +1,3 @@
-# salutmonde
+# maven-project
+
+Simple Maven Project
